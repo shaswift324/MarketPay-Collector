@@ -1,0 +1,6 @@
+{
+  "name": "MarketPay Collector",
+  "description": "A digital fee collection and management system designed for public market stall rentals and daily fee collection, featuring role-based dashboards, receipt generation, and real-time reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
